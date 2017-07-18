@@ -246,6 +246,36 @@
         1,
         null
       ],
+      "/Users/Guest/Desktop/travel/spec/requests/post_review_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        5,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/Guest/Desktop/travel/app/models/review.rb": [
         1,
         1,
@@ -274,8 +304,8 @@
         null,
         null,
         1,
-        0,
-        0,
+        5,
+        5,
         null,
         null,
         1,
@@ -298,7 +328,7 @@
         null,
         1,
         1,
-        0,
+        5,
         null,
         null
       ],
@@ -310,11 +340,11 @@
       "/Users/Guest/Desktop/travel/app/controllers/concerns/response.rb": [
         1,
         1,
-        2,
+        7,
         null,
         null
       ]
     },
-    "timestamp": 1500417347
+    "timestamp": 1500417680
   }
 }
