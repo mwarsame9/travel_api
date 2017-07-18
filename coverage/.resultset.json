@@ -203,6 +203,20 @@
         null,
         null
       ],
+      "/Users/Guest/Desktop/travel/config/initializers/kaminari_config.rb": [
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/Guest/Desktop/travel/config/initializers/mime_types.rb": [
         null,
         null,
@@ -282,7 +296,8 @@
         null,
         3,
         null,
-        null,
+        1,
+        1,
         null,
         null
       ],
@@ -291,10 +306,8 @@
         null,
         1,
         2,
-        null,
-        null,
         2,
-        null,
+        2,
         2,
         null,
         null,
@@ -345,6 +358,6 @@
         null
       ]
     },
-    "timestamp": 1500417680
+    "timestamp": 1500421657
   }
 }

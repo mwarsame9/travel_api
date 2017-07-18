@@ -3,6 +3,7 @@ class Review < ActiveRecord::Base
 
   scope :by_city, -> (city_parameter) { where("city like ?", "%#{city_parameter}%")}
 
-  # scope :by_rating, -> (rating_parameter) { where("rating = 9", "%#{rating_parameter}%")}
+  max_paginates_per 5
+  paginates_per 5
 
 end
